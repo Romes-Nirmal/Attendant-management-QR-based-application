@@ -1,0 +1,280 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "poppins",sans-serif;
+      
+
+}
+
+
+
+
+
+
+header p{
+    background-color:whitesmoke;
+    text-align: center;
+    padding: 70px;
+    color: black;
+    top: 0;
+    border-radius: 10PX;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    backdrop-filter:blur(3px);
+    background: rgb(13, 13, 13) transparent;
+    font-size: larger;
+    margin: 200px;
+    transition: transform 0.3s ease;
+    background-image: url();
+    
+}
+
+
+
+header p:hover {
+    /* Transform effect on hover */
+    transform: scale(1.1);
+  }
+body{
+    display:flex;
+    justify-content:center;
+    
+    align-items: center;
+    min-height: 100vh;
+    background: white;
+    background-image: url(/image/bg21.jpg);
+    
+    
+    background-size: cover;
+    background-color:black;
+}
+.wrapper{
+    width: 450px;
+    background: white transparent;
+    border-radius: 12px;
+    color: #fff;
+    padding: 30px 40px;
+    border: 2px solid rgba(255,255,255,0.2);
+    backdrop-filter:blur(3px)
+   
+}
+.wrapper h1{
+    font-size: 36px;
+    text-align: center;
+}
+.wrapper .input1{
+    width: 100%;
+    height: 50px;
+    position: relative;
+    margin: 30px 0;
+
+}
+.input1 input{
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+    border: 2px solid  white;
+    border-radius: 40px;
+    font-size: 16px;
+    color: #fff;
+    padding: 20px 45px 20px 20px;
+}
+.input1 input::placeholder{
+    color: #fff;
+}
+
+.input1 i{
+
+    position: absolute;
+    right: 20px;
+    top: 30%;
+    transform: translate(-50px);
+    font-size: 20px;
+}
+
+.wrapper .btn{
+
+    width: 100%;
+    height: 45px;
+    background: #fff;
+    margin-bottom: 10px;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    box-shadow: 0 010px rgba(0,0,0,.1);
+    cursor:pointer;
+    font-size: 16px;
+    color: #333;
+    font-weight: 600;
+
+}
+.btn2{
+    width: 100%;
+ height: 45px;
+ background: #fff;
+ margin-bottom: 10px;
+ border: none;
+ outline: none;
+ border-radius: 40px;
+ box-shadow: 0 010px rgba(0,0,0,.1);
+ cursor:pointer;
+ font-size: 16px;
+ color: #333;
+ font-weight: 600;
+   
+}
+
+.wrapper .register{
+    font-size: 14.5px;
+    text-align: center;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+
+.register .link1 p{
+    color: #333;
+    text-decoration: none;
+    font-weight: 600;
+}
+.register p .link1:hover
+{
+    text-decoration: underline;
+}
+
+select {
+       
+    padding: 10px;
+    border: 2px solid #fbf9f9;
+    border-radius: 10px;
+    color: #fff;
+    background-color: darkgray;
+    appearance: none; /* Remove default arrow */
+    -webkit-appearance: none; /* Remove default arrow for webkit browsers */
+    background: url('https://cdn.iconscout.com/icon/free/png-256/scroll-bar-1457608-1235926.png') no-repeat scroll right center;
+}
+a{
+    color:  rgb(167, 165, 165);
+}
+
+a:hover{
+
+    color: red;
+}
+@media only screen and (max-width: 600px)
+{
+    .wrapper{
+      margin-top: 50px;
+      margin-left:20px ;
+      margin-right: 20px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
